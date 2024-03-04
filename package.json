@@ -1,0 +1,26 @@
+{
+  "name": "ai-budy",
+  "version": "1.0.1",
+  "description": "Your first AI friend,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nidy/AiBudy.git"
+  },
+  "keywords": [
+    "ai"
+  ],
+  "author": "Nidy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nidy/AiBudy/issues"
+  },
+  "homepage": "https://github.com/Nidy/AiBudy#readme",
+  "dependencies": {
+    "ai-helper-jimmy": "^1.2.1",
+    "web3_ai_bot": "^1.0.1"
+  }
+}
